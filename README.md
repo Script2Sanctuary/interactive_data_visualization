@@ -13,8 +13,8 @@ MUI
 npm init -y \
 npm install express cors \
 npm install --save-dev nodemon \
-npm install plotly.js d3 \
+npm install plotly.js d3 
 
 # Usage
 npm run dev \
-npm start \
+npm start 
