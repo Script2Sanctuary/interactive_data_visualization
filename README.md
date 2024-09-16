@@ -16,5 +16,7 @@ npm install --save-dev nodemon \
 npm install plotly.js d3 
 
 # Usage
+Backend: \
 npm run dev \
+Frontend: \
 npm start 
